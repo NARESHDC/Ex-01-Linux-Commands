@@ -233,17 +233,7 @@ Syntax:sort <file name>
 ![image](https://github.com/snoopydj911/Ex-01-Linux-Commands/assets/122033587/4fb9813b-4717-4a21-8c63-07fd050b5e1c)
 
 
- 
-### 26)	cal Command
-
-The cal command is used to display the current month's calendar with the current date highlighted.
-
-Syntax: cal
-![image](https://github.com/snoopydj911/Ex-01-Linux-Commands/assets/122033587/7c4d11e3-f5da-4d88-95ec-af0d50315cf2)
-
-
-
-### 27)	clear Command
+### 26)	clear Command
 
 Linux clear command is used to clear the terminal screen.
 
@@ -252,7 +242,7 @@ Syntax: clear
 
 
 
-### 28)	mail Command
+### 27)	mail Command
 
 The mail command is used to send emails from the command line.
 
@@ -261,7 +251,7 @@ Syntax: mail -s "Subject" <recipient address>
 
 
  
-### 29)	df Command
+### 28)	df Command
 
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
@@ -269,7 +259,7 @@ Syntax: df
 ![image](https://github.com/snoopydj911/Ex-01-Linux-Commands/assets/122033587/4fe817bb-7b4e-431a-b49d-2c4f5ce373d9)
 
 
-### 30)	find Command
+### 29)	find Command
 
 The find command is used to find a particular file within a directory.
 
